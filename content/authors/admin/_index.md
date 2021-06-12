@@ -1,7 +1,7 @@
 ---
 title: Jiang Wensi
 role: PhD in IOT
-avatar_filename: avatar.jpg
+avatar_filename: avatar.jpg.jpg
 bio: My research interests include blockchain, federated learning and
   distributed computing.
 interests:
