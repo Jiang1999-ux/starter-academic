@@ -6,7 +6,8 @@ bio: My research interests include blockchain, federated learning and
   distributed computing.
 interests:
   - Blockchain
-  - Federated learning and Distributed computing
+  - Federated learning
+  - Distributed computing
 social:
   - icon: envelope
     icon_pack: fas
