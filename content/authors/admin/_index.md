@@ -25,7 +25,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/%E6%96%87%E6%80%9D-%E6%B1%9F-1676341b9/
 organizations:
-  - name: Hong Kong University of Science and Technology
+  - name: The Hong Kong University of Science and Technology
     url: https://hkust.edu.hk/
 education:
   courses:
