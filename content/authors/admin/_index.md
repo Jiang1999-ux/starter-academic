@@ -32,7 +32,7 @@ education:
     - course: PhD in Internet of Things
       institution: HKUST
       year: 2021
-    - course: BSc in Communication Engineering
+    - course: BEng in Communication Engineering
       institution: Central South University
       year: 2017
 email: ""
