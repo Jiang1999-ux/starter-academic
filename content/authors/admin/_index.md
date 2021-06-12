@@ -35,7 +35,7 @@ education:
     - course: BEng in Communication Engineering
       institution: Central South University
       year: 2017
-email: jiangwensi@csu.edu.cn
+email: jiangwensi AT csu DOT edu DOT cn
 superuser: true
 highlight_name: false
 ---
