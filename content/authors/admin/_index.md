@@ -1,7 +1,7 @@
 ---
 title: Jiang Wensi
 role: PhD in IOT
-avatar_filename: a.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include blockchain, federated learning and
   distributed computing.
 interests:
@@ -35,7 +35,7 @@ education:
     - course: BEng in Communication Engineering
       institution: Central South University
       year: 2017
-email: jiangwensi AT csu DOT edu DOT cn
+email: jiangwensiATcsu
 superuser: true
 highlight_name: false
 ---
