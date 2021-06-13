@@ -1,43 +1,45 @@
 ---
-abstract: "Cameras are widely used in many scenes such as robot positioning and
-  unmanned driving, in which the camera calibration is a major task in this
-  field. The interactive camera calibration method based on a plane board is
-  becoming popular due to its stability and handleability. However, most methods
-  choose suggestions subjectively from a fixed pose dataset, which is
-  error-prone and limited for different camera models. In addition, these
-  methods do not provide clear guidelines on how to place the board in the
-  specified pose. This paper proposes a new interactive calibration method,
-  named ‘Calibration Venus’, including two main parts: pose search and pose
-  decomposition. First, a pose search algorithm based on simulated annealing
-  (SA) algorithm is proposed to select the optimal pose in the entire pose
-  space. Second, an intuitive and easy-to-use user guidance method is designed
-  to decompose the optimal pose into four sub-poses: translation, each rotation
-  along X-, Y-, Z-axes. Thereby the users could follow the guide step by step to
-  accurately complete the placement of the calibration board. Experimental
-  results evaluated on simulated and real datasets show that the proposed method
-  can reduce the difficulty of calibration, and improve the accuracy of
-  calibration, as well as provide better guidance."
+abstract: "We propose OmniLytics, a blockchain-based secure data trading
+  marketplace for machine learn\x02ing applications. Utilizing OmniLytics, many
+  distributed data owners can contribute their private data to collectively
+  train a ML model requested by some model owners, and get compensated for data
+  contribution. OmniLytics enables such model training while simultaneously
+  providing 1) model security against curious data owners; 2) data security
+  against the curious model and data owners; 3) resilience to malicious data
+  owners who provide faulty results to poison model training, and 4) resilience
+  to malicious model owner who intents to evade the payment. OmniLytics is
+  implemented as a smart contract on the Ethereum blockchain to guarantee the
+  atomicity of payment. In Omni\x02Lytics, a model owner publishes encrypted
+  initial model on the contract, over which the participating data owners
+  compute gradients using their private data, and securely aggregate the
+  gradients through the contract. Finally, the contract reimburses the data
+  owners, and the model owner decrypts the aggregated model update. We implement
+  a working prototype of OmniLytics on Ethereum and perform extensive
+  experiments to measure its gas cost and execution time under various parameter
+  combinations, demonstrating its high computation and cost efficiency and
+  strong practicality."
 slides: example
 url_pdf: ""
 publication_types:
-  - "2"
+  - "1"
 authors:
+  - Jiangcheng Liang
   - admin
-  - Robert Ford
+  - Songze Li
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: In *Electronics*
+publication: In *Under review*
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
 url_dataset: ""
 url_project: ""
-publication_short: In *ICW*
+publication_short: In *Under review*
 url_source: ""
 url_video: ""
-title: "Calibration Venus: An Interactive Camera Calibration Method Based on
-  Search Algorithm and Pose Decomposition"
+title: OmniLytics A Blockchain-based Secure Data Market for Decentralized
+  Machine Learning
 doi: ""
 featured: true
 tags: []
@@ -47,9 +49,10 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00Z
+  filename: featured.jpg.jpg
+date: 2021-06-13T02:47:27.352Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
