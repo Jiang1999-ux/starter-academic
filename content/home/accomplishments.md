@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Award'
 subtitle:
 
 # Date format
@@ -23,32 +23,32 @@ date_format: Jan 2, 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://jiang-wensi.netlify.app/uploads/hku.pdf.pdf
-  date_end: ""
-  date_start: "2020-09-16"
+- certificate_url: https://jiang-wensi.netlify.app/uploads/hku.pdf
+  date_end: "2020-07-19"
+  date_start: "2020-08-31"
   description: ""
   organization: HKU
   organization_url: https://www.hku.hk/
   title: Summer Research Internship Programme
   url: ""
   
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+- certificate_url: https://jiang-wensi.netlify.app/uploads/firstclass.pdf
+  date_end: "2018-07-01"
+  date_start: "2017-09-01"
+  description: Top 5% of 110 students
+  organization: Central South University
+  organization_url: http://www.csu.edu.cn/
+  title: First-class Scholarship
+  url: 
   
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+- certificate_url: https://jiang-wensi.netlify.app/uploads/secondtclass.pdf
+  date_end: "2018-07-01"
+  date_start: "2017-09-01"
+  description: Top 5% of 110 students
+  organization: Central South University
+  organization_url: http://www.csu.edu.cn/
+  title: Sencond-class Scholarship
+  url: 
 
 design:
   columns: '2' 
