@@ -41,7 +41,7 @@ item:
   title: First-class Scholarship
   url: 
   
-- certificate_url: https://jiang-wensi.netlify.app/uploads/secondtclass.pdf
+- certificate_url: https://jiang-wensi.netlify.app/uploads/secondclass.pdf
   date_end: "2018-07-01"
   date_start: "2017-09-01"
   description: Top 5% of 110 students
