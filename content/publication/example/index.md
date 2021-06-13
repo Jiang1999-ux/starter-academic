@@ -1,6 +1,6 @@
 ---
-abstract: "We propose OmniLytics, a blockchain-based secure data trading
-  marketplace for machine learn\x02ing applications. Utilizing OmniLytics, many
+abstract: We propose OmniLytics, a blockchain-based secure data trading
+  marketplace for machine learning applications. Utilizing OmniLytics, many
   distributed data owners can contribute their private data to collectively
   train a ML model requested by some model owners, and get compensated for data
   contribution. OmniLytics enables such model training while simultaneously
@@ -9,15 +9,15 @@ abstract: "We propose OmniLytics, a blockchain-based secure data trading
   owners who provide faulty results to poison model training, and 4) resilience
   to malicious model owner who intents to evade the payment. OmniLytics is
   implemented as a smart contract on the Ethereum blockchain to guarantee the
-  atomicity of payment. In Omni\x02Lytics, a model owner publishes encrypted
-  initial model on the contract, over which the participating data owners
-  compute gradients using their private data, and securely aggregate the
-  gradients through the contract. Finally, the contract reimburses the data
-  owners, and the model owner decrypts the aggregated model update. We implement
-  a working prototype of OmniLytics on Ethereum and perform extensive
-  experiments to measure its gas cost and execution time under various parameter
-  combinations, demonstrating its high computation and cost efficiency and
-  strong practicality."
+  atomicity of payment. In OmniLytics, a model owner publishes encrypted initial
+  model on the contract, over which the participating data owners compute
+  gradients using their private data, and securely aggregate the gradients
+  through the contract. Finally, the contract reimburses the data owners, and
+  the model owner decrypts the aggregated model update. We implement a working
+  prototype of OmniLytics on Ethereum and perform extensive experiments to
+  measure its gas cost and execution time under various parameter combinations,
+  demonstrating its high computation and cost efficiency and strong
+  practicality.
 slides: example
 url_pdf: ""
 publication_types:
@@ -30,9 +30,8 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: In *Under review*
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: We propose OmniLytics, a blockchain-based secure data trading
+  marketplace for machine learning applications.
 url_dataset: ""
 url_project: ""
 publication_short: In *Under review*
