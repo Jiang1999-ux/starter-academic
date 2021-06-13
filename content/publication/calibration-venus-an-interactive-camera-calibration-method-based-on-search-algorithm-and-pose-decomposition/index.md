@@ -38,7 +38,7 @@ abstract: "Cameras are widely used in many scenes such as robot positioning and
 draft: false
 featured: false
 tags:
-  - other
+  - Other
 image:
   filename: ""
   focal_point: Smart
