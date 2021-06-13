@@ -25,11 +25,11 @@ date_format: Sep. 2018
 item:
 - certificate_url: https://jiang-wensi.netlify.app/uploads/hku.pdf.pdf
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2020-09-16"
   description: ""
-  organization: Coursera
+  organization: HKU
   organization_url: https://www.hku.hk/
-  title: Neural Networks and Deep Learning
+  title: Summer Research Internship Programme
   url: ""
   
 - certificate_url: https://www.edx.org
