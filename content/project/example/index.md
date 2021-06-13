@@ -5,7 +5,7 @@ summary: We propose OmniLytics, a blockchain-based secure data trading
   marketplace for machine learning applications.
 url_video: ""
 date: 2016-04-27T00:00:00Z
-external_link: https://twitter.com/jiang12477214
+external_link: https://fedml.ai/
 url_slides: ""
 title: Secure data market on blockchain
 tags:
