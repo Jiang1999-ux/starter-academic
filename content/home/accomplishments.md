@@ -23,7 +23,7 @@ date_format: Sep. 2018
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://github.com/Jiang1999-ux/starter-academic/blob/master/static/uploads/hku.pdf.pdf
+- certificate_url: {{< staticref "uploads/hku.pdf.pdf" "newtab" >}}{{< /staticref >}}
   date_end: ""
   date_start: "2021-01-25"
   description: ""
