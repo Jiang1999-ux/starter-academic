@@ -29,12 +29,12 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: In *Under review*
+publication: under review *ICML-FL*
 summary: We propose OmniLytics, a blockchain-based secure data trading
   marketplace for machine learning applications.
 url_dataset: ""
 url_project: ""
-publication_short: In *Under review*
+publication_short: under review *ICML-FL*
 url_source: ""
 url_video: ""
 title: OmniLytics A Blockchain-based Secure Data Market for Decentralized
