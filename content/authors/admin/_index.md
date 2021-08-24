@@ -39,6 +39,6 @@ email: jiangwensiATcsu
 superuser: true
 highlight_name: false
 ---
-I am a PhD student in the Information Hub at HKUST(GZ). My advisors are Prof. Songze Li and Prof. Danny Tsang. I obtained my Bachelor's degree in Communication Engineering from the School of Computer Science at Central South University, China.
+I am a PhD student in the Information Hub at HKUST(GZ). My advisors are Prof. {{< staticref "https://ece.hkust.edu.hk/songzeli" "newtab" >}}Songze Li {{< /staticref >}}. I obtained my Bachelor's degree in Communication Engineering from the School of Computer Science at Central South University, China.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
