@@ -1,6 +1,6 @@
 ---
 title: Jiang Wensi
-role: PhD in IoT
+role: Mphil in IoT
 avatar_filename: avatar.jpg.jpg
 bio: My research interests include blockchain, federated learning and
   distributed computing.
@@ -29,13 +29,13 @@ organizations:
     url: https://hkust.edu.hk/
 education:
   courses:
-    - course: PhD in Internet of Things
+    - course: Mphil in Internet of Things
       institution: HKUST
       year: 2021
     - course: BEng in Communication Engineering
       institution: Central South University
       year: 2017
-email: jiangwensiATcsu
+email: wensi.jiang@connect.ust.hk
 superuser: true
 highlight_name: false
 ---
