@@ -29,7 +29,7 @@ organizations:
     url: https://hkust.edu.hk/
 education:
   courses:
-    - course: Mphil in Internet of Things
+    - course: Research Assistant
       institution: HKUST
       year: 2021
     - course: BEng in Communication Engineering
