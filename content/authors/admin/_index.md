@@ -7,7 +7,7 @@ bio: My research interests include Machine Learning, blockchain and distributed
 interests:
   - Machine Learning
   - Blockchain
-  - Distributed computing
+  - Privacy Preserving
 social:
   - icon: envelope
     icon_pack: fas
