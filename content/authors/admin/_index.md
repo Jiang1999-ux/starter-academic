@@ -1,11 +1,11 @@
 ---
 title: Jiang Wensi
-role: Mphil in IoT
+role: Research Assistant in HKUST
 avatar_filename: avatar.jpg.jpg
-bio: My research interests include blockchain, federated learning and
-  distributed computing.
+bio: My research interests include Machine Learning, blockchain and distributed
+  computing.
 interests:
-  - Federated learning
+  - Machine Learning
   - Blockchain
   - Distributed computing
 social:
@@ -39,6 +39,6 @@ email: wensi.jiang@connect.ust.hk
 superuser: true
 highlight_name: false
 ---
-I am a Mphil student in the Information Hub at HKUST(GZ). I obtained my Bachelor's degree in Communication Engineering from the School of Computer Science at Central South University, China.
+I am a Research Assistant at HKUST now. I obtained my Bachelor's degree in Communication Engineering from the School of Computer Science at Central South University, China.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
