@@ -29,7 +29,7 @@ organizations:
     url: https://hkust.edu.hk/
 education:
   courses:
-    - course: Mphil in DSA
+    - course: Research Assistant in DSA
       institution: HKUST
       year: 2021
     - course: BEng in Communication Engineering
