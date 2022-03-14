@@ -2,11 +2,11 @@
 title: Jiang Wensi
 role: Research Assistant in DSA
 avatar_filename: avatar.jpg.jpg
-bio: My research interests include blockchain，federated Learning,  and
+bio: My research interests include data and networking privacy，blockchain,  and
   distributed computing.
 interests:
-  - Machine Learning
-  - Blockchain
+  - data and networking privacy
+  - blockchain
   - Privacy Preserving
 social:
   - icon: envelope
